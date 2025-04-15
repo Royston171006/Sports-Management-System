@@ -1,0 +1,4 @@
+Equipment    No of items
+Cricket Bat      5
+Ball   		 10
+Football	 6
